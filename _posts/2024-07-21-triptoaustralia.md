@@ -21,8 +21,8 @@ _Aeroplane at Dubai Airport_
 I had to change planes in Dubai to Sydney.
 
 ### Arrival In Sydney
-![Camera view from the aircraft](sydneyaeroplaneview.jpg){: w="700" h="400" }
-_Camera view from the aircraft_
+![Camera view from the aircraft over Sydney](sydneyaeroplaneview.jpg){: w="700" h="400" }
+_Camera view from the aircraft over Sydney_
 After dusty and hot Dubai, I have finally reached Sydney.
 - Season: mid-winter
 - Temperature: 11°C
