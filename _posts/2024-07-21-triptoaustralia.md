@@ -1,17 +1,32 @@
 ---
-title: My trip to Australia
-date: 2024-07-21 13:02:55 +0200
+title: Flight To Australia
+date: 2024-08-03 22:02:55 +0200
 categories: [Travel, Australia]
 tags: [route]
-description: Overview of my language stay in Sydney and Brisbane.
+description: Information about my trip to and in Australia as well as the courses I will be attending.
 comments: false
-media_subpath: /assets/img/
+media_subpath: /assets/img/australia/
 ---
 
-## My stations
+I will be doing a language study trip to Australia for four months. My goal is to improve my English and explore Australia.
+
+## Entire Route
 ![Map of my trip](travelmap.svg){: w="700" h="400" }
 _Map of my trip_
+The first destination is Sydney, which I reach after a total flight time of 20 hours and a stopover in Dubai. 
 
-## Duration
-1. One month at the Lexis language school in Sydney on a general language course.
-2. A three-month placement at the Lexis language school in Brisbane, focusing on the Cambridge Proficiency level.
+### Stopover In Dubai
+![Aeroplane at Dubai Airport](dubaiairport.jpg){: w="700" h="400" }
+_Aeroplane at Dubai Airport_
+I had to change planes in Dubai to Sydney.
+
+### Arrival In Sydney
+![Camera view from the aircraft](sydneyaeroplaneview.jpg){: w="700" h="400" }
+_Camera view from the aircraft_
+After dusty and hot Dubai, I have finally reached Sydney.
+- Season: mid-winter
+- Temperature: 11°C
+
+## Courses
+1. I will be attending an intensive English course at Lexis Language School in Sydney from August 2024 to September 2024.
+2. I will be attending a Cambridge Proficiency C2 diploma language course at Lexis Language School in Brisbane from September 2024 to December 2024.
