@@ -1,8 +1,9 @@
 ---
 icon: fas fa-star
-order: 5
+order: 1
 media_subpath: /assets/img/portfolio/
 ---
+My full CV/resume can be viewed on LinkedIn under: [www.linkedin.com/in/levin-joller](https://www.linkedin.com/in/levin-joller/).
 
 ## Experience
 
@@ -15,7 +16,7 @@ Bison Schweiz AG, 6210 Sursee (Switzerland)
 - Documentation in Confluence and JIRA
 
 ![ERP](erp.jpg){: w="700" h="400" }
-_Standard ERP_
+_Standard ERP for 150 customers in Switzerland_
 
 ### Apprentice Software Engineer
 _Aug 2017 – Jul 2021_<br>
@@ -27,7 +28,7 @@ Kauz Informatik Medien AG, 6275 Ballwil (Switzerland)
 - Demonstration of applications and carrying out training courses
 
 ![News Paper Article](newspaperarticlepunktesystem.jpg){: w="700" h="400" }
-_News Paper Article About Developed Software_
+_Newspaper article on the club software_
 
 ### Internship in the field of Computer Science
 _Aug 2016 – Juli 2017_<br>
@@ -39,7 +40,9 @@ Kauz Informatik Medien AG, 6275 Ballwil (Switzerland)
 - Soldering components to the circuit board
 
 ![3D Printer Under Construction](threedprinter.jpg){: w="700" h="400" }
-_3D Printer Under Construction_
+_3D printer under construction_
+
+---
 
 ## Education and Awards
 
@@ -50,8 +53,9 @@ Lexis English Sydney, 2095 Sydney (Australia)
 ### Vocational Baccalaureate - Technology
 _Aug 2022 – Jul 2024_<br>
 Vocational Training Centre for Construction & Trade (BBZB), 6002 Luzern (Switzerland)
-- Best Vocational Baccalaureate 2024.
+- Second highest final grade in ICT with a grade of 5.8 in 2021.
 
+![Baccalaureate](baccalaureate.jpg)
 ![ERP](bbzbhighestscore.jpg){: w="700" h="400" }
 _BBZB Highest Score_
 [BBZB News](https://beruf.lu.ch/Berufslehre/Berufslehre_im_Betrieb/Berufsfachschule/berufsbildungszentren/bbzb/Berufsmaturitaet/News)
@@ -61,7 +65,12 @@ _BBZB Highest Score_
 ### Swiss Federal Diploma VET - Software Engineer EFZ
 _Aug 2017 – Jul 2021_<br>
 Vocational Training Centre for Business, Information Technology and Technology (BBZW), 6210 Sursee (Switzerland)
-<br>
+- Second highest final grade achieved with 5.8 in 2021.
+- Highest final grade in general education with 5.8 in 2021.
+- Practical thesis awarded the highest grade of 6.0.
+
+![Apprenticeship](apprenticeship.jpg)
+![ABU](abu.jpg)
 [Luzerner Zeitung](https://www.luzernerzeitung.ch/zentralschweiz/luzern/namen-lehrabgaenger-kanton-luzern-gewerblich-industrielle-berufe-ld.2165695)
 
 ---
@@ -70,12 +79,6 @@ Vocational Training Centre for Business, Information Technology and Technology (
 ### IT Software Solutions for Business
 - Programming software according to specifications
 - I came 19th in the championship
-<object data="../assets/pdf/swissskillscertificate.pdf" width="100%" height="700" type='application/pdf'></object>
 
+![Resume](swissskills.jpg)
 [SwissSkills](https://www.luzernerzeitung.ch/zentralschweiz/luzern/swiss-skills-praezision-unter-zeitdruck-in-dagmersellen-kaempfen-neun-plattenleger-um-den-schweizermeistertitel-ld.1255743?reduced=true)
-
----
-
-## Resume
-
-<object data="../assets/pdf/resume.pdf" width="100%" height="700" type='application/pdf'></object>

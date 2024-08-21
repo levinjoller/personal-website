@@ -1,6 +1,6 @@
 ---
 icon: fas fa-paint-brush
-order: 1
+order: 2
 media_subpath: /assets/img/art
 ---
 
