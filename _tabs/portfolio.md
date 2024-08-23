@@ -15,8 +15,8 @@ Bison Schweiz AG, 6210 Sursee (Switzerland)
 - Agile development according to Scrum
 - Documentation in Confluence and JIRA
 
-![ERP](erp.jpg){: w="700" h="400" }
-_Standard ERP for 150 customers in Switzerland_
+![Standard ERP software](erp.jpg){: w="700" h="400" }
+_Standard ERP software for 150 customers in Switzerland_
 
 ### Apprentice Software Engineer
 _Aug 2017 – Jul 2021_<br>
@@ -27,8 +27,8 @@ Kauz Informatik Medien AG, 6275 Ballwil (Switzerland)
 - Maintaining technical documentation
 - Demonstration of applications and carrying out training courses
 
-![News Paper Article](newspaperarticlepunktesystem.jpg){: w="700" h="400" }
-_Newspaper article on the club software_
+![News paper article](newspaperarticlepunktesystem.jpg){: w="700" h="400" }
+_Newspaper article on the developed club software_
 
 ### Internship in the field of Computer Science
 _Aug 2016 – Juli 2017_<br>
@@ -39,7 +39,7 @@ Kauz Informatik Medien AG, 6275 Ballwil (Switzerland)
 - Providing 1st level support
 - Soldering components to the circuit board
 
-![3D Printer Under Construction](threedprinter.jpg){: w="700" h="400" }
+![3D printer under construction](threedprinter.jpg){: w="700" h="400" }
 _3D printer under construction_
 
 ---
@@ -55,12 +55,13 @@ _Aug 2022 – Jul 2024_<br>
 Vocational Training Centre for Construction & Trade (BBZB), 6002 Luzern (Switzerland)
 - Second highest final grade in ICT with a grade of 5.8 in 2021.
 
-![Baccalaureate](baccalaureate.jpg)
-![ERP](bbzbhighestscore.jpg){: w="700" h="400" }
-_BBZB Highest Score_
-[BBZB News](https://beruf.lu.ch/Berufslehre/Berufslehre_im_Betrieb/Berufsfachschule/berufsbildungszentren/bbzb/Berufsmaturitaet/News)
+![Vocational Baccalaureate Honours for highest score](baccalaureate.jpg)
+_Vocational Baccalaureate Honours for highest score 2024_
+![Vocational Baccalaureate Honours for highest score](bbzbhighestscore.jpg){: w="700" h="400" }
+_BBZB Luzern Honours for highest score 2024_
+[BBZB News - Best Vocational Baccalaureate degree 2024](https://beruf.lu.ch/Berufslehre/Berufslehre_im_Betrieb/Berufsfachschule/berufsbildungszentren/bbzb/Berufsmaturitaet/News)
 <br>
-[Luzerner Zeitung](https://www.luzernerzeitung.ch/zentralschweiz/luzern/lehrabschluesse-die-namen-aller-lehrabgaengerinnen-und-lehrabgaenger-im-kanton-luzern-ld.2647330?reduced=true#subtitle-bm-berufsbegleitend-richtung-technik-architektur-life-sciences-second)
+[Luzerner Zeitung - TALS graduates 2024](https://www.luzernerzeitung.ch/zentralschweiz/luzern/lehrabschluesse-die-namen-aller-lehrabgaengerinnen-und-lehrabgaenger-im-kanton-luzern-ld.2647330?reduced=true#subtitle-bm-berufsbegleitend-richtung-technik-architektur-life-sciences-second)
 
 ### Swiss Federal Diploma VET - Software Engineer EFZ
 _Aug 2017 – Jul 2021_<br>
@@ -69,9 +70,11 @@ Vocational Training Centre for Business, Information Technology and Technology (
 - Highest final grade in general education with 5.8 in 2021.
 - Practical thesis awarded the highest grade of 6.0.
 
-![Apprenticeship](apprenticeship.jpg)
-![ABU](abu.jpg)
-[Luzerner Zeitung](https://www.luzernerzeitung.ch/zentralschweiz/luzern/namen-lehrabgaenger-kanton-luzern-gewerblich-industrielle-berufe-ld.2165695)
+![Apprenticeship Honours for highest score](apprenticeship.jpg)
+_Apprenticeship Honours for highest score 2021_
+![General Education Honours for highest score](abu.jpg)
+_General Education Honours for highest score 2021_
+[Luzerner Zeitung - Software Engineer graduates 2021](https://www.luzernerzeitung.ch/zentralschweiz/luzern/namen-lehrabgaenger-kanton-luzern-gewerblich-industrielle-berufe-ld.2165695)
 
 ---
 
@@ -80,5 +83,6 @@ Vocational Training Centre for Business, Information Technology and Technology (
 - Programming software according to specifications
 - I came 19th in the championship
 
-![Resume](swissskills.jpg)
-[SwissSkills](https://www.luzernerzeitung.ch/zentralschweiz/luzern/swiss-skills-praezision-unter-zeitdruck-in-dagmersellen-kaempfen-neun-plattenleger-um-den-schweizermeistertitel-ld.1255743?reduced=true)
+![Swiss Skills Certificate](swissskills.jpg)
+_Certificate for successful participation in ICT Swiss Skills_
+[Luzerner Zeitung - ICT Swiss Skills participants 2020](https://www.luzernerzeitung.ch/zentralschweiz/luzern/swiss-skills-praezision-unter-zeitdruck-in-dagmersellen-kaempfen-neun-plattenleger-um-den-schweizermeistertitel-ld.1255743?reduced=true)
