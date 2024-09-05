@@ -46,14 +46,18 @@ _3D printer under construction_
 
 ## Education and Awards
 
+### CPE Cambridge Preparation Course
+_Sep 2024 – today_<br>
+Lexis English School QLD, 4012 Brisbane (Australia)
+
 ### IELTS Preparation Course
-_Aug 2024 – today_<br>
-Lexis English Sydney, 2095 Sydney (Australia)
+_Aug 2024 – Sep 2024_<br>
+Lexis English School SYD, 2095 Manly (Australia)
 
 ### Vocational Baccalaureate - Technology
 _Aug 2022 – Jul 2024_<br>
 Vocational Training Centre for Construction & Trade (BBZB), 6002 Luzern (Switzerland)
-- Second highest final grade in ICT with a grade of 5.8 in 2021.
+- Highest final grade with a final grade of 5.8 in 2024.
 
 ![Vocational Baccalaureate Honours for highest score](baccalaureate.jpg)
 _Vocational Baccalaureate Honours for highest score 2024_
